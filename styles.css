@@ -40,7 +40,7 @@ body {
     padding: 2%;
     color: hsl(220, 15%, 55%)
 }
-/*
+
 @media screen and (max-width: 1000px) {
     .qr-container {
       width: 30%; /* The width is 50%, when the viewport is 800px or smaller */
@@ -56,9 +56,8 @@ body {
       width: 40%; /* The width is 50%, when the viewport is 800px or smaller */
     }
   }
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 420px) {
     .qr-container {
-      width: 90%; /* The width is 50%, when the viewport is 800px or smaller */
+      width: 90%; /* The width is 90%, when the viewport is 420px or smaller */
     }
   }
-*/
